@@ -10,7 +10,7 @@ Yazdığımız algoritmamızın çalışırken çekilmiş kısa bir demosu:
 
 <video src="BoidsVideo.mp4" controls="controls" muted="muted" style="max-width:100%;"></video>
 
-*(Eğer video yüklenmezse [BoidsVideo.mp4](./BoidsVideo.mp4) dosyasına tıklayarak izleyebilirsiniz)*
+https://github.com/user-attachments/assets/e73df52e-c77b-4595-850f-b2f6dd64213e
 
 ## Kullanılan Teknolojiler
 
